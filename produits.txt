@@ -1,0 +1,9 @@
+1/Tongs/50/disponible
+2/Ballons/0/rupture
+3/Maillots/20/disponible
+4/seau/2/Reapprovisionnement
+5/pelle/40/disponible
+6/sac/20/disponible
+7/velo/0/rupture
+8/Montre/44/disponible
+9/Carreaux/2/Reapprovisionnement
